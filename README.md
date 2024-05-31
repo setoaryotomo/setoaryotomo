@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Seto Aryotomo</h1>
 <h3 align="center">Undergraduate Student at Universitas Dian Nuswantoro</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=setoaryotomo" alt="setoaryotomo" /></a> </p>
-
 - 📫 How to reach me **seto4137@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
