@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Seto Aryotomo</h1>
-<h3 align="center">Undergraduate Student at Universitas Dian Nuswantoro</h3>
 
 - 📫 How to reach me **seto4137@gmail.com**
 
